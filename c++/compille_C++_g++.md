@@ -1,5 +1,7 @@
-10143  vim hello.cpp
-10144  g++ -o hello.exe hello.cpp
-10145  vim hello.cpp
-10146  g++ -o hello.exe hello.cpp
-10149  g++ -o hello hello.cpp
+<lo>
+ <li>vim hello.cpp</li>
+ <li>g++ -o hello.exe hello.cpp/li<>
+ <li>10145  vim hello.cpp</li>
+ <li>10146  g++ -o hello.exe hello.cpp</li>
+ <li>10149  g++ -o hello hello.cpp</li>
+</lo>
