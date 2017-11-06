@@ -1,3 +1,4 @@
+<p>Skrip Compile</p>
 <lo>
  <li>vim hello.cpp</li>
  <li>g++ -o hello.exe hello.cpp</li>
