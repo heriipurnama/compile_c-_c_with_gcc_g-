@@ -1,6 +1,6 @@
-<ol>
- <li>10125  gcc hello.c</li>
- <li>10122  ./a.out</li>
- <li>10128  cd ../c++</li>
-</ol>
+<lo>
+ <li>gcc hello.c</li>
+ <li>./a.out</li>
+ <li>cd ../c++</li>
+</lo>
 
